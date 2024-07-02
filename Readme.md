@@ -29,7 +29,7 @@ YCMOSTO100_5%.ipynb 和 YCMOSTO110_5%.ipynb 中的程式是用來讀取數據文
 
 1. 在使用之前確保您的數據文件格式正確，並位於與程式相同的目錄中。
 2. 修改程式中的文件名以匹配您的數據文件。
-3. 從 GitHub 倉庫克隆此項目：
+3. 從 GitHub 倉庫`clone`此項目：
 
    ```sh
    git clone https://github.com/Rae-C429/experiment.git
@@ -43,7 +43,7 @@ XRD.ipynb 中的程式利用提供的參數預測晶格繞射點。
 
 ### 使用說明
 
-1. 從 GitHub 倉庫克隆此項目：
+1. 從 GitHub 倉庫`clone`此項目：
 
    ```sh
    git clone https://github.com/Rae-C429/experiment.git
